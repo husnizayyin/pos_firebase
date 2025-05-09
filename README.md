@@ -12,8 +12,11 @@ SimplePOS is a lightweight Point-of-Sale (POS) application designed to cater to 
 ## 🚀 Technology Stack
 - **Flutter**: A powerful framework for building cross-platform applications.
 - **BLoC**: State management to ensure clean and predictable app behavior.
+- **Firebase** For database management.
+- **OAuth** For User Authorization.
 
 
 ## 🛠️ Installation
 1. Clone the repository:
+2. Setup flutter fire https://firebase.flutter.dev/docs/overview/
    
