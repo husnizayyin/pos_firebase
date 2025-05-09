@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "744835530303",
+    "project_id": "posttest2",
+    "storage_bucket": "posttest2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744835530303:android:21c46732d728a65821028a",
+        "android_client_info": {
+          "package_name": "id.co.anyargroup.pos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744835530303-782363c88k8ihkjcdkeoldieofg1a27e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYcMV-l-HEkCFE8vSU-d8LprPkHWnkHqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744835530303-782363c88k8ihkjcdkeoldieofg1a27e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "744835530303-07b2dgbqkccc4tso2lmma42u6c25u7sm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "elriztechnology.com.flutterPos"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
