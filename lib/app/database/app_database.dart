@@ -5,7 +5,6 @@ import 'package:flutter/foundation.dart';
 import 'package:path/path.dart';
 import 'package:sqflite/sqflite.dart';
 
-import '../utilities/console_log.dart';
 
 class AppDatabase {
   /// Singleton instance
