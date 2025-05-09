@@ -19,4 +19,5 @@ class AppColors {
   static const Color charcoal = Color(0xff28536B);
   static const Color zamp = Color(0xff66A182);
   static const Color plum = Color(0xff66A182);
+  static const Color lightBlue = Color(0xFF38597C);
 }
